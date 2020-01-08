@@ -22,4 +22,4 @@
 
 ## Work and examples
  - [YouTube](https://www.youtube.com/channel/UCZPgRcU2FACtBiURB2pJx-g?view_as=subscriber)
- - [Twitter] (https://twitter.com/475039chromesu1)
+ - [Twitter](https://twitter.com/475039chromesu1)
