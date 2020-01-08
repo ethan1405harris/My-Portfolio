@@ -16,4 +16,6 @@
  - Very indepentant, but also very good at working with others
  
 ## Contacts
-
+ - 07881 228073
+ - ethan1400@hotmail
+ - 475039@chrome.escg.ac.uk
