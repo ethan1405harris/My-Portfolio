@@ -19,3 +19,6 @@
  - 07881 228073
  - ethan1400@hotmail
  - 475039@chrome.escg.ac.uk
+
+## Work and examples
+ - [YouTube](https://www.youtube.com/channel/UCZPgRcU2FACtBiURB2pJx-g?view_as=subscriber)
