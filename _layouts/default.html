@@ -20,6 +20,10 @@
   <body>
       <div id="header">
         <nav>
+          
+          {% include nav.html %}
+          
+          
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
