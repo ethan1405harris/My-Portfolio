@@ -4,10 +4,13 @@ layout: default
 
 
 ## Ethan Harris
-## 17 Vernon Avenue, Peacehaven, BN10 8PL
+
 ## Ethan1400@hotmail.co.uk
+
 ## 07881 228073
+
 ## 14.05.2002
+
 ## Skills & Abilities
 I am hardworking, friendly and caring.  I enjoy food, play football in my spare time and like playing on my Xbox.  I have recently attended NCS through August 2018 where I learnt first aid, team working, leadership skills and volunteered within a social action project.  I am an avid supporter of Brighton & Hove Albion Football Club
 ## Experience
@@ -18,15 +21,25 @@ Cleaning the shop and butchery equipment, preparing fresh beef burgers and scotc
 Seahaven academy, newhaven   September 2013 – July 2018
 ## gcse obtained
 ## History – Grade 3
+
 ## Mathematics – Grade 4
+
 ## Physical Education – Grade 4
+
 ## Drama – Grade 3
+
 ## English Language – Grade 3
+
 ## English Literature – Grade 4
+
 ## Combined Triple Science – Grade 4/3
+
 ## ICT – Grade B
+
 ## ICT 1- Distinction
+
 ## ICT 2 – Distinction
+
 ## SUSSEX DOWNS COLLEGE, LEWES   SEPTEMBER 2018 – PRESENT
 SOFTWARE AND GAMES DEVELOPMENT BTEC NATIONAL EXTENDED DIPLOMA LEVEL 3
 ## References
