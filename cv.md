@@ -9,7 +9,7 @@ layout: default
 
 ## 07881 228073
 
-## 14.05.2002
+
 
 ## Skills & Abilities
 I am hardworking, friendly and caring.  I enjoy food, play football in my spare time and like playing on my Xbox.  I have recently attended NCS through August 2018 where I learnt first aid, team working, leadership skills and volunteered within a social action project.  I am an avid supporter of Brighton & Hove Albion Football Club
